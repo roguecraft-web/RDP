@@ -1,4 +1,4 @@
-name: DHIKO
+name: Rog
 on:
   workflow_dispatch:
 jobs:
